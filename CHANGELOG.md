@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-11)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -16,6 +16,16 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`7351a51`](https://github.com/stdlib-js/stdlib/commit/7351a5144b489c2c20b1a7f6b8f8d1a1de025269) - remove unused ninf dependency from hyp2f1
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -35,6 +45,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`7351a51`](https://github.com/stdlib-js/stdlib/commit/7351a5144b489c2c20b1a7f6b8f8d1a1de025269) - **fix:** remove unused ninf dependency from hyp2f1 _(by Philipp Burckhardt)_
 -   [`0395909`](https://github.com/stdlib-js/stdlib/commit/03959095fb9ffbe34ca9603b27c5204ce82d8c89) - **docs:** replace manual `for` loop in examples [(#6638)](https://github.com/stdlib-js/stdlib/pull/6638) _(by Harsh)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
@@ -51,11 +62,12 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Harsh
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
