@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-22)
+## Unreleased (2026-01-19)
 
 <section class="features">
 
@@ -45,6 +45,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`7ffed96`](https://github.com/stdlib-js/stdlib/commit/7ffed96e4ed10b5ee1a340adc368d27902d54591) - **test:** remove duplicate test cases in `math/base/special` packages _(by Philipp Burckhardt)_
 -   [`7351a51`](https://github.com/stdlib-js/stdlib/commit/7351a5144b489c2c20b1a7f6b8f8d1a1de025269) - **fix:** remove unused ninf dependency from hyp2f1 _(by Philipp Burckhardt)_
 -   [`0395909`](https://github.com/stdlib-js/stdlib/commit/03959095fb9ffbe34ca9603b27c5204ce82d8c89) - **docs:** replace manual `for` loop in examples [(#6638)](https://github.com/stdlib-js/stdlib/pull/6638) _(by Harsh Yadav)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
