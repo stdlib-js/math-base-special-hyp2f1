@@ -82,7 +82,7 @@ For `|x| >= 1`, the function can be [analytically continued][analytic-continuati
 ## Usage
 
 ```javascript
-import hyp2f1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hyp2f1@deno/mod.js';
+import hyp2f1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hyp2f1@v0.1.0-deno/mod.js';
 ```
 
 #### hyp2f1( a, b, c, x )
@@ -116,7 +116,7 @@ v = hyp2f1( NaN, 3.0, 2.0, 0.5 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import hyp2f1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hyp2f1@deno/mod.js';
+import hyp2f1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hyp2f1@v0.1.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
