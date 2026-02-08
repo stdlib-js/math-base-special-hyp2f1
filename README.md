@@ -82,6 +82,11 @@ For `|x| >= 1`, the function can be [analytically continued][analytic-continuati
 ## Usage
 
 ```javascript
+import hyp2f1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hyp2f1@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-hyp2f1/tags). For example,
+
+```javascript
 import hyp2f1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hyp2f1@v0.1.1-esm/index.mjs';
 ```
 
@@ -121,7 +126,7 @@ v = hyp2f1( NaN, 3.0, 2.0, 0.5 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import hyp2f1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hyp2f1@v0.1.1-esm/index.mjs';
+import hyp2f1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hyp2f1@esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
