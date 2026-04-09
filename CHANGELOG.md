@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-31)
+## Unreleased (2026-04-09)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`121f2c0`](https://github.com/stdlib-js/stdlib/commit/121f2c054f54a7e698da43ff6df554fd0ecae7da) - **test:** migrate `math/base/special/hyp2f1` to ULP-based testing [(#11297)](https://github.com/stdlib-js/stdlib/pull/11297) _(by Nirmal Jyoti Biswas)_
 -   [`e81a8c0`](https://github.com/stdlib-js/stdlib/commit/e81a8c0c8501d4bc3e3b3843a86476a2e088a9d6) - **docs:** fix C examples [(#11134)](https://github.com/stdlib-js/stdlib/pull/11134) _(by anee3)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Nirmal Jyoti Biswas
 -   anee3
 
 </section>
