@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-09)
+## Unreleased (2026-04-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`69e1068`](https://github.com/stdlib-js/stdlib/commit/69e1068fd9ba96ccf49639e124c8d410b022b248) - **test:** adjust tolerance in `math/base/special/hyp2f1` [(#11351)](https://github.com/stdlib-js/stdlib/pull/11351) _(by Nirmal Jyoti Biswas)_
 -   [`121f2c0`](https://github.com/stdlib-js/stdlib/commit/121f2c054f54a7e698da43ff6df554fd0ecae7da) - **test:** migrate `math/base/special/hyp2f1` to ULP-based testing [(#11297)](https://github.com/stdlib-js/stdlib/pull/11297) _(by Nirmal Jyoti Biswas)_
 -   [`e81a8c0`](https://github.com/stdlib-js/stdlib/commit/e81a8c0c8501d4bc3e3b3843a86476a2e088a9d6) - **docs:** fix C examples [(#11134)](https://github.com/stdlib-js/stdlib/pull/11134) _(by anee3)_
 
