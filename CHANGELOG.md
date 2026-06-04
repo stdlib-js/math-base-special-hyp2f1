@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-07)
+## Unreleased (2026-06-04)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`62a90b1`](https://github.com/stdlib-js/stdlib/commit/62a90b1fbe78abef13e0af08f5d9acf474033c03) - **test:** add missing opts guard in native tests [(#12526)](https://github.com/stdlib-js/stdlib/pull/12526) _(by Philipp Burckhardt)_
 -   [`59c9969`](https://github.com/stdlib-js/stdlib/commit/59c9969a580e74428505ba91634607f110ec71bf) - **bench:** refactor to use string interpolation in `math/base/special` [(#11388)](https://github.com/stdlib-js/stdlib/pull/11388) _(by Karan Anand)_
 -   [`7a04cb9`](https://github.com/stdlib-js/stdlib/commit/7a04cb90b3fbb4a98f74f4299d0cc0b131d482a1) - **fix:** address bug and improve C implementation of `math/base/special/hyp2f1` [(#11353)](https://github.com/stdlib-js/stdlib/pull/11353) _(by anee3)_
 -   [`2244f8e`](https://github.com/stdlib-js/stdlib/commit/2244f8e59e730c8e721433ac0fdbdbc11c0c1e9c) - **refactor:** improve the implementation of `math/base/special/hyp2f1` [(#11325)](https://github.com/stdlib-js/stdlib/pull/11325) _(by anee3, Athan Reines, stdlib-bot)_
@@ -39,11 +40,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
 -   Nirmal Jyoti Biswas
+-   Philipp Burckhardt
 -   anee3
 
 </section>
