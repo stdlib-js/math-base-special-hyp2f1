@@ -1,4 +1,4 @@
-"use strict";var _=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var F=_(function(Yr,dr){dr.exports={MACHEP:11102230246251565e-32,EPS:1e-13,ETHRESH:1e-12,MAX_ITERATIONS:1e4}});var L=_(function(Zr,vr){
+"use strict";var _=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(v){throw (r=0, v)}};};var F=_(function(Yr,dr){dr.exports={MACHEP:11102230246251565e-32,EPS:1e-13,ETHRESH:1e-12,MAX_ITERATIONS:1e4}});var L=_(function(Zr,vr){
 var Pr=require('@stdlib/math-base-special-round/dist'),Sr=require('@stdlib/math-base-special-abs/dist'),pr=F(),Ar=pr.EPS;function mr(e){var r,v;return v=Pr(e),r=Sr(e-v),v<=0&&r<Ar}vr.exports=mr
 });var ur=_(function($r,ir){
 var $=require('@stdlib/math-base-special-abs/dist'),yr=require('@stdlib/math-base-special-max/dist');function Hr(e,r,v){var i,f,s,o;if(i=1,f=1,s=1,$(r)>=1e5)return NaN;for(o=1;o<=-r;o++)f*=(e+o-1)*v/o,i=yr($(f),i),s+=f;return 1e-16*(1+i/$(s))>1e-7?NaN:s}ir.exports=Hr
