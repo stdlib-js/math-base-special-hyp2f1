@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-07-08)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`a9ded39`](https://github.com/stdlib-js/stdlib/commit/a9ded39203d2cbc9ff79b0cc96f0fbd2a962b36f) - **chore:** clean-up [(#12446)](https://github.com/stdlib-js/stdlib/pull/12446) _(by Philipp Burckhardt, Athan Reines)_
 -   [`62a90b1`](https://github.com/stdlib-js/stdlib/commit/62a90b1fbe78abef13e0af08f5d9acf474033c03) - **test:** add missing opts guard in native tests [(#12526)](https://github.com/stdlib-js/stdlib/pull/12526) _(by Philipp Burckhardt)_
 -   [`59c9969`](https://github.com/stdlib-js/stdlib/commit/59c9969a580e74428505ba91634607f110ec71bf) - **bench:** refactor to use string interpolation in `math/base/special` [(#11388)](https://github.com/stdlib-js/stdlib/pull/11388) _(by Karan Anand)_
 -   [`7a04cb9`](https://github.com/stdlib-js/stdlib/commit/7a04cb90b3fbb4a98f74f4299d0cc0b131d482a1) - **fix:** address bug and improve C implementation of `math/base/special/hyp2f1` [(#11353)](https://github.com/stdlib-js/stdlib/pull/11353) _(by anee3)_
